@@ -1,0 +1,6 @@
+{
+  "name": "The Tie Breaker",
+  "description": "AI-powered decision-making assistant with pros & cons, side-by-side comparison tables, SWOT analyses, and weighted decision matrices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
